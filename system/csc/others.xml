@@ -3,7 +3,7 @@
   <Version>ED0019</Version>
   <Country>CHINA</Country>
   <CountryISO>CN</CountryISO>
-  <SalesCode>CHC</SalesCode>
+  <SalesCode>TGY</SalesCode>
   <FeatureSet>
     <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
     <!-- ORG value: TRUE --><CscFeature_Common_DisableGoogle>FALSE</CscFeature_Common_DisableGoogle>
@@ -17,10 +17,10 @@
     <!-- ORG value: TRUE --><CscFeature_Common_SupportFestival>FALSE</CscFeature_Common_SupportFestival>
     <CscFeature_Common_SupportActivationDate>TRUE</CscFeature_Common_SupportActivationDate>
     <CscFeature_Framework_ConfigBlockNotiOperation>Swipe</CscFeature_Framework_ConfigBlockNotiOperation>
-    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>CHC</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <!--CHC--><CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>TGY</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
     <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SilentMode,MobileData,Location,Bluetooth,RotationLock,Flashlight,AirplaneMode,PowerSaving,ScreenCapture,DormantMode,WifiHotspot,UltraPowerSaving,PersonalMode,AllShareCast,Nfc,Sync,SFinder,RedPacket</CscFeature_SystemUI_ConfigDefQuickSettingItem>
-    <CscFeature_SystemUI_ConfigQuickSettingPopup>CHC</CscFeature_SystemUI_ConfigQuickSettingPopup>
-    <CscFeature_SystemUI_ConfigOpBrandingForQuickSettingLabel>CHC</CscFeature_SystemUI_ConfigOpBrandingForQuickSettingLabel>
+    <!--CHC--><CscFeature_SystemUI_ConfigQuickSettingPopup>TGY</CscFeature_SystemUI_ConfigQuickSettingPopup>
+    <!--CHC--><CscFeature_SystemUI_ConfigOpBrandingForQuickSettingLabel>TGY</CscFeature_SystemUI_ConfigOpBrandingForQuickSettingLabel>
     <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
     <CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>TRUE</CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>
     <CscFeature_SSRM_SupportGmsBundling>TRUE</CscFeature_SSRM_SupportGmsBundling>
@@ -53,7 +53,7 @@
     <CscFeature_Contact_LimitNameLength>250</CscFeature_Contact_LimitNameLength>
     <CscFeature_Contact_CheckSimAlphaLength4UnicodeName>TRUE</CscFeature_Contact_CheckSimAlphaLength4UnicodeName>
     <CscFeature_Contact_DisableMenuNameOrder>TRUE</CscFeature_Contact_DisableMenuNameOrder>
-    <!-- ORG value: CHC --><!-- <CscFeature_Contact_ConfigTelNumType>CHC</CscFeature_Contact_ConfigTelNumType> -->
+    <!-- ORG value: CHC --><CscFeature_Contact_ConfigTelNumType>TGY</CscFeature_Contact_ConfigTelNumType>
     <!-- ORG value: CHC :For removing yellow page --><CscFeature_Contact_ConfigOpStyleVariation>CHC</CscFeature_Contact_ConfigOpStyleVariation>
     <CscFeature_Contact_ConfigDefaultViewBy>AllCalls</CscFeature_Contact_ConfigDefaultViewBy>
     <CscFeature_Contact_KeepUserProperty>ViewBy</CscFeature_Contact_KeepUserProperty>
@@ -78,12 +78,12 @@
 	SecMemo3.apk 
 	SecCalculator_M.apk</CscFeature_Setting_ConfigApkListForPreloadInstaller>
     <CscFeature_Setting_ConfigBlockNotiAppList>NULL</CscFeature_Setting_ConfigBlockNotiAppList>
-    <CscFeature_Setting_ConfigOpMenuStructure>CHC</CscFeature_Setting_ConfigOpMenuStructure>
+    <!--TGY--><CscFeature_Setting_ConfigOpMenuStructure>TGY</CscFeature_Setting_ConfigOpMenuStructure>
     <CscFeature_Launcher_ConfigZeroPageApp>com.mobilesrepublic.sohu.launcher/com.mobilesrepublic.sohu.launcher.MainActivity</CscFeature_Launcher_ConfigZeroPageApp>
     <CscFeature_Launcher_SupportAutoIconAlign>TRUE</CscFeature_Launcher_SupportAutoIconAlign>
     <CscFeature_Launcher_SupportBadgeClearGesture>TRUE</CscFeature_Launcher_SupportBadgeClearGesture>
     <CscFeature_Launcher_ConfigHomeAppsStructure>support_homeonly</CscFeature_Launcher_ConfigHomeAppsStructure>
-    <CscFeature_Calendar_EnableLocalHolidayDisplay>CHINA</CscFeature_Calendar_EnableLocalHolidayDisplay>
+    <!--CHINA--><CscFeature_Calendar_EnableLocalHolidayDisplay>VIETNAM</CscFeature_Calendar_EnableLocalHolidayDisplay>
     <CscFeature_Calendar_EnableLunar>TRUE</CscFeature_Calendar_EnableLunar>
     <CscFeature_Calendar_EnableSDCardImport>TRUE</CscFeature_Calendar_EnableSDCardImport>
     <!-- ORG value: TRUE --><CscFeature_Calendar_DisableGoogleMapIntegration>FALSE</CscFeature_Calendar_DisableGoogleMapIntegration>
