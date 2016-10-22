@@ -20,3 +20,8 @@ This guide is my owned notes about how to transform the device into the one can 
 
 
 ## How to remove unnessary Chinese apps and 
+
+## Notes
+
+1. Using code TGY instead of XXV: some how using XXV make phone no 3G/4G connection at all
+2. How to install xposed (steps)
